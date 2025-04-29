@@ -59,3 +59,6 @@ CMD ["java", "casestudy.lemigohotel.LemigoHotelMain"]
 CMD ["java", "casestudy.rwandanationalpolice.RwandaPoliceMain"]
 ```
 ---
+
+- **Docker Hub**: [karlie1/oop_project_26654](https://hub.docker.com/repositories/karlie1) 
+- **GitHub Repository**: [aline_nzikwinkunda](https://github.com/Aline-eng/aline_nzikwinkunda)
