@@ -47,7 +47,7 @@ docker build -t oop_project_26654 .
 2. **Run the container**
 
 ```bash
-docker run -it oop_project_26654
+docker run -it karlie1/oop_project_26654
 ```
 
 ### To Switch Between Systems:
